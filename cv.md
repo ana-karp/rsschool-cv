@@ -14,11 +14,11 @@ Junior Web Developer who enjoys learning new languages and tecnologies. Finding 
 - base C++
 
 **Tools:** 
-- GitHub
+- GitHub, Git
 - MS Office, MS Excel
 - Photoshop, Pixlr X
 
-***Other skills:*** advanced Windows user, 1C advanced user.
+**Other skills:** advanced Windows user, 1C advanced user.
 
 
 ## Code examples
