@@ -23,7 +23,6 @@ Junior Web Developer who enjoys learning new languages and tecnologies. Finding 
 
 ## Code examples
 ```javascript
-//generate hashtag from string
 function generateHashtag(str) {
     let result = str
         .split(" ")
