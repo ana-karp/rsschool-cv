@@ -44,8 +44,8 @@ More code examples on [Codewars](https://www.codewars.com/users/karp).
 - Introduction to Programming (C++). [Yandex Academy](https://stepik.org/cert/83212)
 - Salesforse developer. VRP Consulting
 
-**Belarusian State Economic University**, Minsk, Belarus\
-Specialist (Bachelor Degree) – Commercial activity (Economist)
+**Belarusian State Economic University**, Minsk, Belarus  
+Bachelor Degree – Commercial activity (Economist)
 
 ## English
 **Intermediate (B1).** Reading technical documentations and news, watching educational lectures, speaking. 
