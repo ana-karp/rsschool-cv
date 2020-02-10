@@ -12,13 +12,15 @@ body {
 
 header {
     padding-top: 40px;
-    background-color: white;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: whitesmoke;
 }
 
 main {
     padding-top: 30px;
     padding-bottom: 40px;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 section{
@@ -36,7 +38,6 @@ figure {
     position: relative;
     float: left;
     margin: 0 2rem 1rem 0;
-    border: 1px solid #fef3d9;
 }
 
 ul {
