@@ -14,9 +14,9 @@ Junior Web Developer who enjoys learning new languages and tecnologies. Finding 
 - base C++
 
 **Tools:** 
-- GitHub, Git
+- GitHub, Git, VS Code
 - MS Office, MS Excel
-- Photoshop, Pixlr X
+- Photoshop, Pixlr X, Figma
 
 **Other skills:** advanced Windows user, 1C advanced user.
 
@@ -35,7 +35,7 @@ function generateHashtag(str) {
 More code examples on [Codewars](https://www.codewars.com/users/karp).
 
 ## Experience
-- Developed custom [web-application](https://karp-task6-dev-ed.lightning.force.com/c/ProductTableApp.app) on Salesforce CRM platform for working with database records (2019).
+- Developed custom web-application on Salesforce CRM platform for working with database records (2019).
 
 ## Education
 **Courses:**
